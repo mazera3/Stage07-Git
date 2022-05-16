@@ -53,3 +53,17 @@ Date:   Sun May 15 22:40:07 2022 -0300
 - registrar no repositorio (git commit)
 
 - git status
+```
+No ramo master
+nothing to commit, working tree clean
+```
+- Apos midific as o index.htm `git status`
+```
+No ramo master
+Changes not staged for commit:
+  (utilize "git add <arquivo>..." para atualizar o que será submetido)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+nenhuma modificação adicionada à submissão (utilize "git add" e/ou "git commit -a")
+```
