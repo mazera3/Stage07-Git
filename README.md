@@ -91,4 +91,6 @@ ec004a5 criado o arquivo index.html
 ```
 <img src="./img/head.jpg" width="50%"/>
 
-- git diff (apresenta a diferença das modificações realizadas)
+- `git diff` (apresenta a diferença das modificações realizadas)
+- `git restore .` (para restaurar o estado anterior com todos os arquivos)
+- `git restore --staged .` (reverte git add .)
