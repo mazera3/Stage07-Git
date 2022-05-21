@@ -67,3 +67,29 @@ Changes not staged for commit:
 
 nenhuma modificação adicionada à submissão (utilize "git add" e/ou "git commit -a")
 ```
+- git add .
+```
+No ramo master
+Mudanças a serem submetidas:
+(use "git restore --staged <file>..." to unstage)
+  modified:   index.html
+```
+- git status
+
+<img src="./img/commit.jpg" width="50%"/>
+
+- git commit -m "criado html base"
+- git status
+
+<img src="./img/commit2.jpg" width="50%"/>
+
+## Head (branch), (master), (main)
+```
+349dae1 (HEAD -> master) criado html base
+88c55b9 criado o arquivo readme.md
+ec004a5 criado o arquivo index.html
+```
+<img src="./img/head.jpg" width="50%"/>
+
+- git diff (apresenta a diferença das modificações realizadas)
+- 
