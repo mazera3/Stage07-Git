@@ -94,3 +94,5 @@ ec004a5 criado o arquivo index.html
 - `git diff` (apresenta a diferença das modificações realizadas)
 - `git restore .` (para restaurar o estado anterior com todos os arquivos)
 - `git restore --staged .` (reverte git add .)
+- `git commit --amend -m` "alterado title page" (altera o ultimo commit)
+- `git reset --soft HEAD~1` (desfazer um commit inteiro)
