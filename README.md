@@ -92,4 +92,3 @@ ec004a5 criado o arquivo index.html
 <img src="./img/head.jpg" width="50%"/>
 
 - git diff (apresenta a diferença das modificações realizadas)
-- 
